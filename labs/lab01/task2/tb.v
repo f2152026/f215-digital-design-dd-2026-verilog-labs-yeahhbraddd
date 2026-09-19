@@ -42,4 +42,3 @@ module tb;
     $monitor($time, " a=%b b=%b cin=%b | sum=%b cout=%b", t_a, t_b, t_cin, t_sum, t_cout);
 
 endmodule
-
